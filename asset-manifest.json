@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/piyushkkumawat/myportfolio/static/css/main.3b3b0ee6.css",
+    "main.js": "/piyushkkumawat/myportfolio/static/js/main.f3a8432d.js",
+    "static/media/Screenshot 2025-08-04 at 10.47.30 PM.png": "/piyushkkumawat/myportfolio/static/media/Screenshot 2025-08-04 at 10.47.30 PM.301c1d8cb2a1803596ae.png",
+    "static/media/Screenshot 2025-08-04 at 10.50.39 PM.png": "/piyushkkumawat/myportfolio/static/media/Screenshot 2025-08-04 at 10.50.39 PM.610b3dac66fd6bb21dc0.png",
+    "static/media/Screenshot 2025-08-04 at 11.15.56 PM.png": "/piyushkkumawat/myportfolio/static/media/Screenshot 2025-08-04 at 11.15.56 PM.9cd6d8b0afcfa5b017e7.png",
+    "static/media/profile.jpeg": "/piyushkkumawat/myportfolio/static/media/profile.ab0abd08fb64fddecc26.jpeg",
+    "static/media/WhatsApp Image 2025-08-04 at 22.55.24.jpeg": "/piyushkkumawat/myportfolio/static/media/WhatsApp Image 2025-08-04 at 22.55.24.23bed49d2ba4449751d0.jpeg",
+    "index.html": "/piyushkkumawat/myportfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3b3b0ee6.css",
+    "static/js/main.f3a8432d.js"
+  ]
+}
